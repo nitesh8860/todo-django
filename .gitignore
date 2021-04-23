@@ -142,7 +142,7 @@ pythonenv*
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
+.env
 # Pyre type checker
 .pyre/
 
