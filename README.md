@@ -12,5 +12,9 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-![todo-app](https://github.com/nitesh8860/todo-django/assets/13062907/d60599ea-5a87-4ac6-90ce-3a989d7357b7)
-
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+![](screenshots/5.png)
+![](screenshots/6.png)
