@@ -74,3 +74,5 @@ Contributions are welcome! If you have any enhancements or feature additions in 
 This project is open-source and available under the [MIT License](LICENSE). You are free to use and modify the application as needed.
 
 Enjoy staying organized with todo-django!
+
+
